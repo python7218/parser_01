@@ -1,9 +1,5 @@
-import csv 
+from turtle import*
 
-
-jhkkflflfkjkg
-jgkgkgkglgl
-
-kgkgkgkgkS
-
-lkmklmlknkln
+fd (100)
+lt(90)
+fd(100)
